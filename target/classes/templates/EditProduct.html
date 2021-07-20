@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:th="http://www.thymeleaf.org" lang="">
+<head>
+    <title>Spring Boot Basic Sample</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="/css/style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <h2>List of products</h2>
+    <table>
+        <thead>
+            <tr>
+                <td></td>
+                <td>Nazwa</td>
+                <td>Cena</td>
+                <td></td>
+            </tr>
+        </thead>
+        <form th:action="@{/postProduct}" action="#" method="post">
+            <tr>
+                <td>
+                    <label>
+                        <input type="hidden" th:field="${product.id}" th:name="id"/>
+                    </label>
+                </td>
+                <td>
+                    <label>
+                        <input type="text" th:field="${product.name}" th:name="name"/>
+                    </label>
+                </td>
+                <td>
+                    <label>
+                        <input type="text" th:field="${product.price}" th:name="price"/>
+                    </label>
+                </td>
+                <td>
+                    <label>
+                        <input type="submit"/>
+                    </label>
+                </td>
+            </tr>
+        </form>
+    </table>
+
+    <a th:href="@{/}">
+        <button type="button" >Back</button>
+    </a>
+</body>
+</html>
