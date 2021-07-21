@@ -5,12 +5,15 @@ import com.example.demo.model.Product;
 import com.example.demo.service.ProductService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
+import org.springframework.validation.FieldError;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import java.math.BigDecimal;
+import javax.validation.Valid;
+
 
 @Controller
 public class ProductController {
@@ -34,24 +37,30 @@ public class ProductController {
         return "EditProduct";
     }
 
-    @PostMapping(value = "/postProduct")
-    public String postProduct(@RequestParam Long id, @RequestParam String name, @RequestParam BigDecimal price) {
-        Product newEntity = new Product(name, price);
-        productService.update(newEntity, id);
+    @PostMapping(value = "/editProduct")
+    public String postProduct(@Valid @ModelAttribute Product product, BindingResult bindingResult, Model model) {
+
+        if(bindingResult.hasErrors()){
+            bindingResult.addError(new FieldError("product", "product.name", "Nazwa musi mieć znaki"));
+            bindingResult.addError(new FieldError("product", "product.price", "Cena może być tylko liczbą i tylko dodatnią"));
+            return "EditProduct";
+        }
+        productService.update(product, product.getId());
         return "redirect:";
     }
-
-    @PostMapping(value = "/adProduct")
-    public String adProduct(@RequestParam String name, @RequestParam BigDecimal price) {
-        Product newEntity = new Product(name, price);
-        productService.create(newEntity);
-        return "redirect:";
-    }
-
 
     @GetMapping(value = "/addProduct")
     public String addProduct() {
         return "AddProduct";
+    }
+
+    @PostMapping(value = "/addProduct")
+    public String adProduct(@Valid @ModelAttribute Product product, BindingResult bindingResult, Model model) {
+        if (bindingResult.hasErrors()) {
+            return "AddProduct";
+        }
+        productService.create(product);
+        return "redirect:";
     }
 
     @GetMapping (value = "/deleteProducts")
@@ -61,6 +70,4 @@ public class ProductController {
         }
         return "redirect:";
     }
-
-
 }

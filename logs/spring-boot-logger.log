@@ -2,3 +2,215 @@
 2021-07-20 16:00:08,923 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
 2021-07-20 16:00:08,923 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
 2021-07-20 16:00:11,673 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.109 seconds (JVM running for 3.585)
+2021-07-21 18:09:04,955 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 12712 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 18:09:04,957 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 18:09:04,957 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 18:09:07,879 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.339 seconds (JVM running for 3.817)
+2021-07-21 18:10:33,229 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 12890 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 18:10:33,230 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 18:10:33,230 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 18:10:36,133 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.267 seconds (JVM running for 3.838)
+2021-07-21 18:18:47,402 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 13311 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 18:18:47,410 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 18:18:47,410 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 18:18:50,152 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.105 seconds (JVM running for 3.565)
+2021-07-21 18:27:40,820 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 13809 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 18:27:40,822 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 18:27:40,822 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 18:27:43,799 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.367 seconds (JVM running for 3.913)
+2021-07-21 18:30:55,158 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 14011 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 18:30:55,159 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 18:30:55,160 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 18:30:57,872 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.042 seconds (JVM running for 3.497)
+2021-07-21 18:32:21,177 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 14166 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 18:32:21,178 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 18:32:21,178 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 18:32:23,844 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.992 seconds (JVM running for 3.429)
+2021-07-21 19:11:21,211 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 15322 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:11:21,212 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:11:21,213 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:11:23,931 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.099 seconds (JVM running for 3.593)
+2021-07-21 19:11:39,356 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 15443 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:11:39,357 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:11:39,357 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:11:42,148 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.207 seconds (JVM running for 3.75)
+2021-07-21 19:14:21,216 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 15599 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:14:21,218 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:14:21,218 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:14:23,909 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.999 seconds (JVM running for 3.387)
+2021-07-21 19:14:48,198 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 15736 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:14:48,208 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:14:48,208 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:14:51,169 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.308 seconds (JVM running for 3.739)
+2021-07-21 19:18:28,101 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 15963 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:18:28,102 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:18:28,103 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:18:30,918 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.161 seconds (JVM running for 3.623)
+2021-07-21 19:23:29,270 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 16177 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:23:29,271 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:23:29,271 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:23:32,003 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.14 seconds (JVM running for 3.727)
+2021-07-21 19:24:19,577 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 16313 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:24:19,579 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:24:19,580 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:24:22,307 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.067 seconds (JVM running for 3.526)
+2021-07-21 19:25:00,220 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 16463 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:25:00,222 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:25:00,222 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:25:03,391 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.532 seconds (JVM running for 5.292)
+2021-07-21 19:25:30,026 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 16596 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:25:30,027 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:25:30,028 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:25:32,997 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.357 seconds (JVM running for 4.061)
+2021-07-21 19:26:10,699 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 16735 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:26:10,701 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:26:10,702 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:26:13,342 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.979 seconds (JVM running for 3.398)
+2021-07-21 19:27:16,416 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 16875 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:27:16,418 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:27:16,418 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:27:19,009 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.923 seconds (JVM running for 3.391)
+2021-07-21 19:28:32,953 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 17062 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:28:32,955 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:28:32,955 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:28:35,519 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.898 seconds (JVM running for 3.358)
+2021-07-21 19:29:50,628 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 17213 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:29:50,630 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:29:50,630 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:29:53,619 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.349 seconds (JVM running for 3.947)
+2021-07-21 19:34:57,532 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 17405 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:34:57,534 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:34:57,534 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:35:00,417 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.255 seconds (JVM running for 3.844)
+2021-07-21 19:35:52,058 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 17558 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:35:52,059 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:35:52,060 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:35:55,270 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.627 seconds (JVM running for 4.311)
+2021-07-21 19:36:37,005 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 17680 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:36:37,007 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:36:37,007 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:36:40,066 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.467 seconds (JVM running for 4.074)
+2021-07-21 19:37:54,109 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 17847 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:37:54,111 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:37:54,111 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:37:57,305 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.611 seconds (JVM running for 4.324)
+2021-07-21 19:41:33,784 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 18122 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:41:33,786 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:41:33,786 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:41:36,468 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.065 seconds (JVM running for 3.608)
+2021-07-21 19:43:23,385 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 18309 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:43:23,386 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:43:23,386 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:43:26,250 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.21 seconds (JVM running for 3.675)
+2021-07-21 19:43:47,133 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 18462 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:43:47,134 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:43:47,135 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:43:49,748 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.95 seconds (JVM running for 3.421)
+2021-07-21 19:44:36,138 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 18608 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:44:36,140 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:44:36,140 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:44:38,920 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.163 seconds (JVM running for 3.582)
+2021-07-21 19:46:00,789 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 18759 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:46:00,791 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:46:00,791 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:46:03,418 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.945 seconds (JVM running for 3.35)
+2021-07-21 19:46:58,944 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 18889 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:46:58,945 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:46:58,946 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:47:01,604 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.095 seconds (JVM running for 3.531)
+2021-07-21 19:47:28,918 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 19021 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:47:28,919 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:47:28,919 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:47:31,660 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.087 seconds (JVM running for 3.594)
+2021-07-21 19:48:40,265 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 19166 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:48:40,266 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:48:40,266 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:48:42,827 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.895 seconds (JVM running for 3.378)
+2021-07-21 19:49:34,311 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 19302 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:49:34,313 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:49:34,314 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:49:37,054 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.1 seconds (JVM running for 3.508)
+2021-07-21 19:51:09,118 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 19453 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:51:09,119 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:51:09,120 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:51:11,815 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.134 seconds (JVM running for 3.656)
+2021-07-21 19:52:38,611 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 19601 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:52:38,613 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:52:38,613 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:52:41,317 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.16 seconds (JVM running for 3.704)
+2021-07-21 19:54:44,157 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 19767 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:54:44,158 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:54:44,159 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:54:46,946 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.158 seconds (JVM running for 3.597)
+2021-07-21 19:55:07,117 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 19898 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:55:07,118 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:55:07,119 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:55:09,827 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.076 seconds (JVM running for 3.534)
+2021-07-21 19:56:21,878 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 20041 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:56:21,879 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:56:21,879 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:56:24,684 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.183 seconds (JVM running for 3.591)
+2021-07-21 19:57:01,293 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 20187 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:57:01,294 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:57:01,294 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:57:03,946 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.997 seconds (JVM running for 3.395)
+2021-07-21 19:59:28,043 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 20339 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:59:28,044 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:59:28,044 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:59:30,585 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.853 seconds (JVM running for 3.257)
+2021-07-21 19:59:49,029 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 20471 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 19:59:49,030 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 19:59:49,030 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 19:59:51,680 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.02 seconds (JVM running for 3.443)
+2021-07-21 20:01:32,705 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 20618 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:01:32,706 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:01:32,707 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:01:35,444 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.053 seconds (JVM running for 3.485)
+2021-07-21 20:02:13,071 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 20752 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:02:13,072 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:02:13,073 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:02:15,816 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.103 seconds (JVM running for 3.548)
+2021-07-21 20:03:12,705 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 20904 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:03:12,707 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:03:12,707 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:03:15,829 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.521 seconds (JVM running for 4.086)
+2021-07-21 20:07:31,714 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 21109 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:07:31,715 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:07:31,715 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:07:34,336 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.958 seconds (JVM running for 3.408)
+2021-07-21 20:07:57,581 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 21233 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:07:57,582 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:07:57,582 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:08:00,638 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.435 seconds (JVM running for 4.015)
+2021-07-21 20:08:59,508 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 21388 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:08:59,510 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:08:59,510 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:09:03,089 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 4.012 seconds (JVM running for 4.591)
+2021-07-21 20:12:59,930 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 21591 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:12:59,931 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:12:59,932 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:13:02,592 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.008 seconds (JVM running for 3.42)
+2021-07-21 20:13:53,518 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 21747 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:13:53,519 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:13:53,519 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:13:56,106 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.924 seconds (JVM running for 3.384)
+2021-07-21 20:15:42,761 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 21895 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:15:42,763 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:15:42,763 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:15:45,687 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.312 seconds (JVM running for 3.92)
+2021-07-21 20:17:29,981 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 22143 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:17:29,982 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:17:29,982 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:17:32,791 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.175 seconds (JVM running for 3.624)
+2021-07-21 20:20:50,459 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 22325 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:20:50,460 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:20:50,460 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:20:53,077 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.915 seconds (JVM running for 3.327)
+2021-07-21 20:22:36,849 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 22486 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:22:36,850 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:22:36,851 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:22:39,548 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 3.03 seconds (JVM running for 3.437)
+2021-07-21 20:24:42,950 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 15.0.2 on Swift-SF314-42 with PID 22669 (/home/mimik91/Pulpit/CodeCool/ZadanieDomowe/target/classes started by mimik91 in /home/mimik91/Pulpit/CodeCool/ZadanieDomowe)
+2021-07-21 20:24:42,951 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-21 20:24:42,952 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-07-21 20:24:45,570 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.944 seconds (JVM running for 3.387)

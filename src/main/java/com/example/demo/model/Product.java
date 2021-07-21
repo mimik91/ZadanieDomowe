@@ -1,6 +1,12 @@
 package com.example.demo.model;
 
+import org.springframework.format.annotation.NumberFormat;
+import org.springframework.lang.NonNull;
+
 import javax.persistence.*;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Positive;
 import java.math.BigDecimal;
 
 @Entity
@@ -10,9 +16,12 @@ public class Product {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
 
+    @NotBlank
     @Column(name = "name")
     private String name;
 
+    @NotNull
+    @Positive
     @Column(name = "price")
     private BigDecimal price;
 

@@ -18,21 +18,21 @@
                 <td></td>
             </tr>
         </thead>
-        <form th:action="@{/adProduct}" action="#" method="post">
+        <form th:action="@{/addProduct}" action="#" method="post">
             <tr>
                 <td>
                     <label>
-                        <input type="hidden"  th:name="id"/>
+                        <input type="hidden"  />
                     </label>
                 </td>
                 <td>
                     <label>
-                        <input type="text"  th:name="name"/>
+                        <input type="text" field="name" th:name="name"/>
                     </label>
                 </td>
                 <td>
                     <label>
-                        <input type="text"  th:name="price"/>
+                        <input type="text"  field="price" th:name="price"/>
                     </label>
                 </td>
                 <td>
@@ -40,6 +40,12 @@
                         <input type="submit"/>
                     </label>
                 </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
             </tr>
         </form>
     </table>
